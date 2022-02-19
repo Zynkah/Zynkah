@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games, anime and working out.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on anything I can handle.
-- 📫 How to reach me is on my xbox.
+- 📫 How to reach me is on my xbox @ Zynkahsan.
 
 <!---
 Zynkah/Zynkah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
