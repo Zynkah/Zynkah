@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zynkah
 - 👀 I’m interested in video games, anime and working out.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on anything I can handle.
 - 📫 How to reach me is on my xbox @ Zynkahsan.
 
