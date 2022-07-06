@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zynkah
-- 🌱 I’m currently learning python.
+
 
 
 <!---
