@@ -1,4 +1,4 @@
-- 👋 Hi, You can call me Zynkah or Zena, whichever you like most.
+# Hi! I'm Zynkah / Zena
 - I like to create websites on video games or anime related content.
 - Here is my current project I am working on [Final Fantasy X](https://final-fantasy-x.vercel.app/).
 - Also check out my [Maid Cafe](https://maid-cafe.vercel.app/) website.
