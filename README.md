@@ -5,6 +5,7 @@
 - Also check out my [Maid Cafe](https://maid-cafe.vercel.app/) website.
 - I have interned for [Danica's Custom Bakes](https://danicascustombakes.com/).
 - I have been a junior software engineer for Beeps.
+- Currently, I am a front-end engineer for FarePlay.
 - You can view all my work history on [LinkedIn](https://www.linkedin.com/in/zena-creps/)!
 - I am most proficeint with Python, React.js & Next.js!
 
