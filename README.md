@@ -5,7 +5,7 @@
 - Version 2 with updated tech is in the works now! [Final Fantasy X Version 2](https://ffx-v2.vercel.app/).
 - Also check out my [Maid Cafe](https://maid-cafe.vercel.app/) website.
 ## Work History
-- I have interned for [Danica's Custom Bakes](https://danicascustombakes.com/).
+- I have been an intern software engineer for [Danica's Custom Bakes](https://danicascustombakes.com/).
 - I have been a junior software engineer for Beeps.
 - Currently, I am a front-end engineer for FarePlay.
 ## Follow me
