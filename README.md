@@ -5,6 +5,7 @@
 - [Final Fantasy X Version 2](https://ffx-v2.vercel.app/) -> Next.js (app router), TailwindCSS, SQL Vercel data storage.
 - [Maid Cafe](https://maid-cafe.vercel.app/) -> React.js, Bootstrap, Redux store.
 - [Zyntendo](https://zyntendo.netlify.app/) -> HTML & CSS
+- [9S AI Chatbot](https://ai-chatbot-topaz-psi-70.vercel.app/) -> Gemini AI, React, react-chatbot-kit, fuse.js
 ## Work History
 - Intern back-end software engineer for [Danica's Custom Bakes](https://danicascustombakes.com/).
 - Junior full-stack software engineer for Beeps.
