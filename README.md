@@ -9,7 +9,7 @@
 - [npm Privy Casino Setup](https://www.npmjs.com/package/@zynkah/privy-lib) -> React.js, Privy SDK, Styled Components, Framer Motion
 ## Work History
 - Intern back-end software engineer for [Danica's Custom Bakes](https://danicascustombakes.com/).
-- Junior full-stack software engineer for Beeps.
+- Junior full-stack software engineer for [Beeps](https://beeps.dev/).
 - Front-end & mobile software engineer for [Fareplay](https://app.fareplay.io/coin-flip).
 - Front-end software engineer for chkn.lol
 ## Follow me
