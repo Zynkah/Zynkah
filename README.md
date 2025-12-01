@@ -1,5 +1,5 @@
 # Hi! I'm Zynkah / Zena
-- I like to create websites on video games or anime related content.
+- I like to create websites on video games or anime related content. I also make Web3 apps.
 ## Hosted Projects 
 - [My Portfolio](https://next-portfolio-coral-six.vercel.app/) -> Next.js, Tailwind CSS, Framer Motion
 - [Final Fantasy X](https://final-fantasy-x.vercel.app/) -> Next.js (page router) & Next UI, JSON data storage. (Deprecated)
