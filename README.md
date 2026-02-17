@@ -6,7 +6,6 @@
 - [Final Fantasy X Version 2](https://ffx-v2.vercel.app/) -> Next.js (app router), TailwindCSS, SQL Vercel data storage.
 - [Maid Cafe](https://maid-cafe.vercel.app/) -> React.js, Bootstrap, Redux store.
 - [Zyntendo](https://zyntendo.netlify.app/) -> HTML & CSS
-- [9S AI Chatbot](https://ai-chatbot-topaz-psi-70.vercel.app/) -> Gemini AI, React, react-chatbot-kit, fuse.js
 - [npm Privy Casino Setup](https://www.npmjs.com/package/fare-privy-core) -> React.js, @privy-io/react-auth, Styled Components, valtio
 ## Work History
 - Intern back-end software engineer for [Danica's Custom Bakes](https://danicascustombakes.com/).
