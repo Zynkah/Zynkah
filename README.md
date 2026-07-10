@@ -7,6 +7,7 @@
 - [Maid Cafe](https://maid-cafe.vercel.app/) -> React.js, Bootstrap, Redux store.
 - [Zyntendo](https://zyntendo.netlify.app/) -> HTML & CSS
 - [npm Privy Casino Setup](https://www.npmjs.com/package/fare-privy-core) -> React.js, @privy-io/react-auth, Styled Components, valtio
+- [Goddess Fortuna Game](https://goddess-fortuna.vercel.app/) -> React.js, TypeScript, Solana dApp, Tailwind CSS, Daisy UI
 ## Work History
 - Intern back-end software engineer for [Danica's Custom Bakes](https://danicascustombakes.com/).
 - Junior full-stack software engineer for [Beeps](https://beeps.dev/).
