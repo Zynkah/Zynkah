@@ -11,7 +11,7 @@
 ## Work History
 - Intern back-end software engineer for [Danica's Custom Bakes](https://danicascustombakes.com/).
 - Junior full-stack software engineer for [Beeps](https://beeps.dev/).
-- Front-end & mobile software engineer for [Fareplay](https://app.fareplay.io/coin-flip).
+- Front-end & mobile software engineer for [Fareplay](https://app.fareplay.io/).
 - Senior Front-end software engineer && Co-founder for [chkn.lol](https://chkn.lol/)
 ## Follow me
 - You can follow my journey on [LinkedIn](https://www.linkedin.com/in/zena-creps/)!
